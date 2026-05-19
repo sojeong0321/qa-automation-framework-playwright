@@ -35,5 +35,6 @@ test.describe('Checkout 테스트', () => {
     await checkoutPage.finishCheckout();
 
     await checkoutPage.verifyOrderComplete();
+    await checkoutPage.verifyOrderComplete();
   });
 });
