@@ -1,5 +1,20 @@
-Phase 1. Basic E2E Automation 
+# Playwright E2E Automation Framework
 
-Phase 2. Framework Structure 
+## Project Goal
+Manual QA 경험을 기반으로, 유지보수성과 확장성을 고려한 Playwright 기반 E2E 자동화 테스트 프레임워크를 구축.
 
-Phase 3. CI & Failure Analysis
+## Tech Stack
+- Playwright
+- TypeScript
+- GitHub Actions
+- Node.js
+
+## Test Target
+- SauceDemo
+
+## Test Scope
+- Login
+- Product List
+- Cart
+- Checkout
+- Error Validation
